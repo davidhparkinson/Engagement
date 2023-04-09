@@ -2,7 +2,7 @@
 
 ## Look under the [releases tab](https://github.com/davidhparkinson/Engagement/releases) for the newest version!
 
-### Installing the application (download here):
+### Installing the application - FOR MAC ONLY, sorry! :(:
 1. Open the zip file and drag the monkeys (Congolese Bonobos) into your Applications folder.
 2. Double-click the bonobos. It will get mad at you. Now, depending on your version of MacOS:
 a. (NEW) Go to system settings, go to “Privacy and Security”. Scroll to the bottom. Under “Security”, click “Allow Anyway”.
